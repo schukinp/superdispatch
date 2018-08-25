@@ -28,7 +28,7 @@ This is an automated test for registration on https://www.goodreads.com.com/ and
 
 # How to start
 
-Install dependecies `pip3 install -r requirements.txt`
+Install dependencies `pip3 install -r requirements.txt`
 
 Example of launch on Linux, Python 3.6.5:
 ```
