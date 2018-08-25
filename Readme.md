@@ -32,5 +32,5 @@ Install dependencies `pip3 install -r requirements.txt`
 
 Example of launch on Linux, Python 3.6.5:
 ```
-$ python test_goodreads.py
+$ python test_goodreads.py --driver Chrome
 ```
